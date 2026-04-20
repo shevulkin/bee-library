@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/BeeLibrary.Core/BeeLibrary.Core.csproj" />
+  <Project Path="src/BeeLibrary.Data/BeeLibrary.Data.csproj" />
+  <Project Path="src/BeeLibrary.Rag/BeeLibrary.Rag.csproj" />
+  <Project Path="src/BeeLibrary.Web/BeeLibrary.Web.csproj" />
+  <Project Path="tests/BeeLibrary.Core.Tests/BeeLibrary.Core.Tests.csproj" />
+  <Project Path="tests/BeeLibrary.Data.Tests/BeeLibrary.Data.Tests.csproj" />
+  <Project Path="tests/BeeLibrary.Rag.Tests/BeeLibrary.Rag.Tests.csproj" />
+</Solution>
