@@ -1,4 +1,4 @@
-﻿
+﻿namespace BeeLibrary.Core.Models;
 public enum CredibilityStatus
 {
     Unverified,
